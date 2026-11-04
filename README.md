@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%2C%20I'm%20Aarya%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Learning%20Python%2C%20one%20line%20at%20a%20time&descSize=18&descAlignY=60" width="100%"/>
 
+<img src="hh.gif" width="500" alt="pixel art room" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF69B4&center=true&vCenter=true&width=520&lines=print(%22Hello%2C+World!%22)+%F0%9F%8C%B7;Learning+Python+step+by+step+%F0%9F%92%97;Building+small+projects+%F0%9F%8E%80;Every+expert+was+once+a+beginner+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>

@@ -39,9 +39,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Aaryakumari-0302/Python-Basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryakumari-0302&repo=Python-Basics&bg_color=2B1A2E&title_color=FF79C6&text_color=FFD1E8&icon_color=FF5FA2&border_color=FF9ECB" />
-</a>
+[![Python-Basics](https://img.shields.io/badge/Python--Basics-My%20practice%20code-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaryakumari-0302/Python-Basics)
 
 </div>
 
@@ -50,7 +48,7 @@
 ## 💖 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaryakumari-0302&show_icons=true&bg_color=2B1A2E&title_color=FF79C6&text_color=FFD1E8&icon_color=FF5FA2&border_color=FF9ECB&ring_color=FF69B4" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Aaryakumari-0302&show_icons=true&bg_color=2B1A2E&title_color=FF79C6&text_color=FFD1E8&icon_color=FF5FA2&border_color=FF9ECB&ring_color=FF69B4" height="165" />
 </div>
 
 <br/>

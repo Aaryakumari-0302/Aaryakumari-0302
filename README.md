@@ -52,7 +52,7 @@
 ## 💖 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Aaryakumari-0302&show_icons=true&bg_color=2B1A2E&title_color=FF79C6&text_color=FFD1E8&icon_color=FF5FA2&border_color=FF9ECB&ring_color=FF69B4" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Aaryakumari-0302&show_icons=true&bg_color=FFD6E8&title_color=C2185B&text_color=7B1E4B&icon_color=E91E63&border_color=FF69B4&ring_color=E91E63" height="165" />
 </div>
 
 <br/>
